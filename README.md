@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Segni Ikram</h1>
 <h3 align="center">A passionate full stack developer from Tunisia</h3>
 
-- 🔭 I’m currently working on my **Pregnancy and Women's Health Application - Midwifery Center**
+- 🔭 I’m currently working on  **Pregnancy and Women's Health Application - Midwifery Center**
 
 - 📫 How to reach me **Ikramsegni28@gmail.com**
 
