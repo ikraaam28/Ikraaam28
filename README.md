@@ -12,7 +12,7 @@
 ## 🚀 About Me
 
 🎓 Final-year software engineering student, currently interning on a **digital transformation** project in the legal tech sector.  
-💼 Building a full-stack web app using **.NET 8**, **React**, and **MongoDB**, following **DevOps** best practices.  
+💼 Building a full-stack web app using **.NET 8** and **MongoDB**, following **DevOps** best practices.  
 🧠 Passionate about scalable architecture, clean code, automation, and continuous learning.  
 🌍 Based in **Tunisia**, open to international remote opportunities.
 
