@@ -8,7 +8,7 @@
 ## 🚀 About Me
 
 🎓 Final-year engineering student currently completing an **internship** on a digital transformation project in **judicial sales**.  
-💼 Building a full-stack web app using **.NET**, **MongoDB**, and **React**.  
+💼 Building a full-stack web app using **.NET** and **MongoDB**.  
 🌱 Passionate about scalable systems, clean code, and modern DevOps practices.
 
 ---
